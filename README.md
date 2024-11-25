@@ -1,7 +1,7 @@
-# 🚦 Smart Adaptive Traffic Management System 🌐
+# Intelligent Traffic Management System 🌐
 
 ## Project Overview
-Welcome to the realm of **Smart Adaptive Traffic Management**! This revolutionary project, meticulously crafted with Python and YOLO v8, introduces an intelligent traffic management system that dynamically adapts to real-time traffic conditions. By harnessing the power of live CCTV feeds, the system optimizes traffic flow by intelligently adjusting signal timings at intersections. At the heart of the project lies the intuitive Admin GUI, empowering users to effortlessly monitor and control traffic operations.
+Welcome to the realm of **Intelligent Traffic Management**! This revolutionary project, meticulously crafted with Python and YOLO v8, introduces an intelligent traffic management system that dynamically adapts to real-time traffic conditions. By harnessing the power of live CCTV feeds, the system optimizes traffic flow by intelligently adjusting signal timings at intersections. At the heart of the project lies the intuitive Admin GUI, empowering users to effortlessly monitor and control traffic operations.
 
 ## Key Features 🌟
 - **Real-time Traffic Analysis:** The project employs YOLO v8, a state-of-the-art object detection framework, to meticulously analyze live CCTV feeds. This results in precise vehicle detection and classification, forming the cornerstone of effective traffic analysis.
