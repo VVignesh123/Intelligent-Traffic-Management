@@ -24,16 +24,7 @@ Welcome to the realm of **Smart Adaptive Traffic Management**! This revolutionar
 2. Launch the main script to initiate live feed analysis and real-time signal optimization.
 3. Access the Admin GUI to interact with the system directly. This interface facilitates live image streaming, offers a wealth of traffic insights, and empowers users to influence signal timings.
 
-## Demo Videos 🎬
-- **Admin GUI:**
-  
-https://github.com/shubham001official/Smart-Adaptive-Traffic-Management-System/assets/109148746/1e120012-1831-4b09-acef-fa0b5424aec6
 
-- Delve into the functional and witness the convergence of technology and transportation management. Experience firsthand the fluidity of live traffic control and monitoring.
-- **Traffic Simulation:** Immerse yourself in the captivating [Simulation Demo](simulation_demo.mp4).
-
-
-https://github.com/shubham001official/Smart-Adaptive-Traffic-Management-System/assets/109148746/faad34f0-1add-4b67-ae61-f9c540ca07e5
 
 
 
