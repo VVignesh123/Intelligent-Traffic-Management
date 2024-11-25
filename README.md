@@ -35,10 +35,3 @@ Welcome to the realm of **Intelligent Traffic Management**! This revolutionary p
 - The implementation of machine learning models for predictive traffic analysis is poised to elevate the system's proactive traffic management capabilities.
 
 - Expansion efforts aim to encompass more intricate intersections and intricate road networks, fortifying the system's applicability and impact.
-
-## Contact 📞
-For inquiries, collaboration prospects, or simply to discuss the project's nuances, please feel free to get in touch with the project author.
-
-🚗🚕🚙🚛🚦 Keep traffic flowing seamlessly with the transformative power of Smart Adaptive Traffic Management! 🌐🚀
-
---- 
